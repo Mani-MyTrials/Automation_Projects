@@ -1,4 +1,4 @@
-# Automation_Projects
+# Assignment Projects
 Includes several automation projects in JAVA and JS
 
 
